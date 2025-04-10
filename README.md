@@ -1,4 +1,4 @@
-# 3D-Printed-Braille-Labels
+# 3D Printed Braille Labels
 Customizable 3D printed Braille Labels
 # Documentation above includes: 
       - User Guide
@@ -42,3 +42,7 @@ TOOLS:
 # Attribution
 
 Michael Cantino and Sean Tikkun
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
